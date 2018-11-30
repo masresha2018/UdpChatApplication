@@ -24,6 +24,7 @@ namespace MessageEncodeDecode
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Console.WriteLine("hello");
             // Convert the string into a byte array.
             byte[] unicodeBytes = unicode.GetBytes(unicodeString);
 

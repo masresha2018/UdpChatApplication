@@ -7,3 +7,6 @@ c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\Message
 c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.csproj.GenerateResource.Cache
 c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.exe
 c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.pdb
+C:\Users\MASRE\Desktop\New\UdpAndSerialChatApplicationv2\UdpAndSerialChatApplication\UdpChatApplication\MessageEncodeDecode\MessageEncodeDecode\bin\Debug\MessageEncodeDecode.exe.config
+C:\Users\MASRE\Desktop\New\UdpAndSerialChatApplicationv2\UdpAndSerialChatApplication\UdpChatApplication\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.exe
+C:\Users\MASRE\Desktop\New\UdpAndSerialChatApplicationv2\UdpAndSerialChatApplication\UdpChatApplication\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.pdb
