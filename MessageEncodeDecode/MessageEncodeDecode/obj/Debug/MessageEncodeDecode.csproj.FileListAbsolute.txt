@@ -1,0 +1,9 @@
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\bin\Debug\MessageEncodeDecode.exe.config
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\bin\Debug\MessageEncodeDecode.exe
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\bin\Debug\MessageEncodeDecode.pdb
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.csprojResolveAssemblyReference.cache
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.Form1.resources
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.Properties.Resources.resources
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.csproj.GenerateResource.Cache
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.exe
+c:\users\masre\documents\visual studio 2015\Projects\MessageEncodeDecode\MessageEncodeDecode\obj\Debug\MessageEncodeDecode.pdb
